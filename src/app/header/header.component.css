@@ -1,0 +1,20 @@
+.header{
+    height: 200px;
+    padding: auto;
+    display: flex;
+}
+.site-slogan{
+text-align: left;
+margin: auto;
+font-size: 500px;
+}
+h2{
+    font-size: 45px;
+}
+.site-image{
+    margin: auto;
+    margin-right: 0%;
+}
+.site-image:hover{
+    opacity: 0.6;
+}

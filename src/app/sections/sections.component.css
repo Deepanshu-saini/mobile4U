@@ -1,0 +1,16 @@
+.searchval{
+color: green;
+}
+input[type=text]{
+    width: 86%;
+    height: 50px;
+    border: 10px;
+    border-color: aquamarine;
+    border-radius: 10px;
+}
+.sb{
+    margin-right: 0;
+    padding: 3px;
+    margin-left: 20px;
+    border-radius: 30px;
+}

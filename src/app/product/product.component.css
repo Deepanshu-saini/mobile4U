@@ -1,0 +1,38 @@
+.product-container{
+    display:flex;
+    margin: 15px 5px;
+    padding: 10px;
+    width: 600px;
+    height: 200px;
+    border-radius: 20px;
+}
+.bl{
+    display: inline-block;
+    
+}
+.name-container{
+    text-align: center;
+    margin-top: 50px;
+    margin:auto;
+    height: 100px;
+    width: 200px;
+
+}
+.image-container{
+    display: flex;
+    /* width: 200px; */
+}
+.btn{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+}
+.options{
+    margin-left: 50px;
+    margin-right: 0;
+}
+.details{
+    text-align: center;
+    margin: 5px;
+
+}

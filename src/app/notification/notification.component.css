@@ -1,0 +1,13 @@
+.notification{
+    text-align: center;
+    padding: 25px;
+    display: flex;
+    background-color:chartreuse;
+    margin: auto;
+    font-style:italic;
+}
+.fadeout{
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 2s, opacity 2s linear;
+}
